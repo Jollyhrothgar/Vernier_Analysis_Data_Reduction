@@ -1,0 +1,1 @@
+/direct/phenix+spin2/beaumim/vernierScans/run_data/run_12/DSTs/DST_VERNIER_run12_vernier_online_ana281-0000365866-0005.root
